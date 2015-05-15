@@ -1,0 +1,17 @@
+{
+  "name": "Browsemble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "screenshots.js",
+  "dependencies": {
+    "browserstack-webdriver": "^2.41.1",
+    "resemblejs": "^1.2.1",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marek@nogiec.org",
+  "license": "MIT"
+}
